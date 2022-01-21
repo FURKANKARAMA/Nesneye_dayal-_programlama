@@ -1,0 +1,20 @@
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\bin\Debug\NDProje.exe.config
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\bin\Debug\NDProje.exe
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\bin\Debug\NDProje.pdb
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.csprojAssemblyReference.cache
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.Form1.resources
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.Properties.Resources.resources
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.csproj.GenerateResource.cache
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.csproj.CoreCompileInputs.cache
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.exe
+C:\Users\mavii\OneDrive\Masaüstü\Windows Form Dersleri\NDProje\NDProje\obj\Debug\NDProje.pdb
+C:\Users\Acer\Desktop\NDProje\NDProje\bin\Debug\NDProje.exe.config
+C:\Users\Acer\Desktop\NDProje\NDProje\bin\Debug\NDProje.exe
+C:\Users\Acer\Desktop\NDProje\NDProje\bin\Debug\NDProje.pdb
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.Form1.resources
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.Properties.Resources.resources
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.exe
+C:\Users\Acer\Desktop\NDProje\NDProje\obj\Debug\NDProje.pdb
